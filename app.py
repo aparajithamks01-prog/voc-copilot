@@ -18,7 +18,6 @@ USAGE:
     streamlit run app.py
     (make sure cluster_summaries.csv is in the same folder)
 """
-pip install streamlit pandas plotly
 import pandas as pd
 import plotly.graph_objects as go
 import streamlit as st
