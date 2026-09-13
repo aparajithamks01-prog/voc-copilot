@@ -1,0 +1,13 @@
+cluster,num_reviews,sample_size,summary,verification_result
+0,59,15,"Users express frustration over account suspensions, disabled profiles, login failures, and blocked access without clear reasons or after interacting with adult content. Additionally, users report technical issues following recent updates, including app crashes when editing posts, the inability to edit comments, and problems posting videos or photos.",YES
+1,78,15,"Users frequently describe the software as a ""nice,"" ""great,"" or ""best"" app, with one noting it is the most used application on their phone and another mentioning it is a good app for reels creators. However, one user notes that the app hangs a lot, and another states that it alternately gives appeals.",**YES**
+2,32,15,These reviews are too short and vague to summarize meaningfully.,YES
+3,65,15,"These reviews are too short and vague to summarize meaningfully beyond the repeated use of the words ""great"" and ""good.""",**YES**
+4,28,15,"These reviews are too short and vague to summarize meaningfully, consisting almost entirely of individual emojis, symbols, and brief shorthand phrases like ""super"" and ""the best.""",**YES**
+5,42,15,"These reviews express general affection, appreciation, and praise for Instagram through short statements, greetings, and positive remarks, alongside a few specific complaints about app performance, technical bugs, upload failures, and account security issues. Users also mention features and elements such as AI video ads, Instagram IDs, profile content, and the desire to gain followers.",**YES**
+6,82,15,The reviews are too short and vague to summarize meaningfully.,**YES**
+7,114,15,"These reviews express positive sentiment through repeated praise (""good,"" ""love it,"" ""best,"" ""perfecttt"") and describe the platform as useful, educational, and a genius media platform. Specific users mention that it helps with social connections, serves as a best friend, and is very useful if used right, though one user notes that it is super distracting.","**NO**
+
+**Unsupported claims:**
+* ""describes the platform as... educational"" (Review #9 says ""it's to educative"", which contains a misspelling/non-standard phrasing, but the summary's generalization that it is ""educational"" is a slight extrapolation/correction of the review text, though mostly minor). 
+* More importantly, the claim that it **""serves as a best friend""** is unsupported. Review #7 states, ""it's good, and **I have** my best friend,"" which means the user found *their actual best friend* on the platform, not that the platform itself serves as a best friend."
